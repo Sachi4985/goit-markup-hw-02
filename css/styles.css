@@ -42,6 +42,6 @@ body {
 .addres-mail:active {
   color: #404bbf;
 }
-.addres:target {
+.addres-mail:target {
   color: #404bbf;
 }
