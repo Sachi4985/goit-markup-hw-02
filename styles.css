@@ -14,16 +14,14 @@ body {
   height: 21px;
   list-style: none;
 }
-.logo-studio {
-  font-family: Raleway;
-  font-size: 18px;
+.logo {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
-  line-height: 21px;
-  color: rgba(46, 47, 66, 1);
-  width: 71px;
-  height: 21px;
-
-  list-style: none;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 .menu-nav {
   font-family: "Roboto";
