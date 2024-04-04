@@ -1,4 +1,46 @@
 body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
+  color: #434455;
+}
+.logo-web {
+  color: rgba(77, 90, 229, 1);
+  font-family: "Raleway";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  text-align: left;
+  width: 44px;
+  height: 21px;
+  list-style: none;
+}
+.logo-studio {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  color: rgba(46, 47, 66, 1);
+  width: 71px;
+  height: 21px;
+
+  list-style: none;
+}
+.menu-nav {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(46, 47, 66, 1);
+  list-style: none;
+}
+.address {
+  width: 153px;
+  height: 24px;
+  top: 24px;
+  left: 940px;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
 }
