@@ -1,4 +1,4 @@
-body {
+.body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
   color: #434455;
@@ -13,7 +13,7 @@ body {
   color: #4d5ae5;
 }
 
-.logo-studio {
+span {
   color: #2e2f42;
 }
 .link-studio {
