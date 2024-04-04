@@ -68,5 +68,32 @@ span {
   cursor: pointer;
   background-color: #404bbf;
 }
-.second-block {
+.header-second-section {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.paragraph-second-section {
+  line-height: 1.5;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.our-team-section {
+  background-color: #f4f4fd;
+}
+.second-header {
+  font-family: "Roboto";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.team-list {
+  background-color: #ffffff;
 }
