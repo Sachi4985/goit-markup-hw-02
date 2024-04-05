@@ -23,7 +23,7 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.link-nav:active {
+.menu-nav.link-nav:active {
   color: #404bbf;
 }
 .addres {
@@ -36,7 +36,7 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
-.addres-contacts:active {
+.addres .addres-contacts:active {
   color: #404bbf;
 }
 
