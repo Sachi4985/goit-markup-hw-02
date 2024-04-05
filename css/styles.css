@@ -23,7 +23,9 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.link-nav:hover,
+.link-nav:hover {
+  color: #404bbf;
+}
 .link-nav:active {
   color: #404bbf;
 }
@@ -81,9 +83,7 @@
 .our-team-section {
   background-color: #f4f4fd;
 }
-.team-list {
-  background-color: #ffffff;
-}
+
 .second-header {
   font-family: "Roboto";
   font-size: 36px;
@@ -109,4 +109,7 @@
 }
 .span-footer-logo {
   color: #f4f4fd;
+}
+.section-team-list {
+  background-color: #ffffff;
 }
