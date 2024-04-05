@@ -23,9 +23,7 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.link-nav:active {
-  color: #404bbf;
-}
+.link-nav:active,
 .link-nav:hover {
   color: #404bbf;
 }
@@ -39,12 +37,11 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
-.addres-contacts:active {
-  color: #404bbf;
-}
+.addres-contacts:active,
 .addres-contacts:hover {
   color: #404bbf;
 }
+
 .first-block {
   background-color: #2e2f42;
 }
@@ -64,7 +61,8 @@
   color: #ffffff;
   cursor: pointer;
 }
-.button-order-service:active {
+.button-order-service:active,
+.button-order-service:hover {
   background-color: #404bbf;
 }
 .header-second-section {
@@ -81,7 +79,7 @@
   color: #434455;
 }
 .our-team-section {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 .second-header {
   font-family: "Roboto";
