@@ -26,7 +26,7 @@
 .link-nav:hover {
   color: #404bbf;
 }
-ul.link-nav:active {
+.menu-nav .link-nav:active {
   color: #404bbf;
 }
 .addres {
@@ -42,7 +42,7 @@ ul.link-nav:active {
 .addres-contacts:hover {
   color: #404bbf;
 }
-.ul .addres-contacts:active {
+.contacts .addres-contacts:active {
   color: #404bbf;
 }
 
@@ -68,7 +68,7 @@ ul.link-nav:active {
 .first-block .button-order-service:active {
   background-color: #404bbf;
 }
-.first-block .button-order-service:hover {
+.button-order-service:hover {
   background-color: #404bbf;
 }
 .header-second-section {
