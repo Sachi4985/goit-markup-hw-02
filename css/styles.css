@@ -23,7 +23,7 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.link-nav:target {
+.link-nav:active {
   color: #404bbf;
 }
 .link-nav:hover {
@@ -39,7 +39,7 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
-.addres-contacts:target {
+.addres-contacts:active {
   color: #404bbf;
 }
 .addres-contacts:hover {
@@ -62,7 +62,6 @@
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  background-color: #404bbf;
   cursor: pointer;
 }
 .button-order-service:active {
@@ -97,6 +96,10 @@
 .team-list {
   background-color: #ffffff;
 }
+.our-portfolio-section {
+  background-color: #ffffff;
+}
+
 .footer {
   background-color: #2e2f42;
 }
@@ -107,7 +110,4 @@
 }
 .span-footer-logo {
   color: #f4f4fd;
-}
-.our-portfolio-section {
-  background-color: #ffffff;
 }
