@@ -23,7 +23,10 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.menu-nav.link-nav:active {
+.link-nav:hover {
+  color: #404bbf;
+}
+ul.link-nav:active {
   color: #404bbf;
 }
 .addres {
@@ -36,7 +39,10 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
-.addres .addres-contacts:active {
+.addres-contacts:hover {
+  color: #404bbf;
+}
+.ul .addres-contacts:active {
   color: #404bbf;
 }
 
@@ -59,10 +65,10 @@
   color: #ffffff;
   cursor: pointer;
 }
-.button-order-service:active {
+.first-block .button-order-service:active {
   background-color: #404bbf;
 }
-.button-order-service:hover {
+.first-block .button-order-service:hover {
   background-color: #404bbf;
 }
 .header-second-section {
