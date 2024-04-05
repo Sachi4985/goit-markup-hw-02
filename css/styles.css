@@ -23,7 +23,7 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.link-nav:focus,
+.link-nav:hover,
 .link-nav:active {
   color: #404bbf;
 }
@@ -37,7 +37,7 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
-.addres-contacts:focus,
+.addres-contacts:active,
 .addres-contacts:hover {
   color: #404bbf;
 }
@@ -63,7 +63,7 @@
 }
 .button-order-service:active,
 .button-order-service:hover {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 .header-second-section {
   font-weight: 500;
