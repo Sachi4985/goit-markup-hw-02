@@ -42,7 +42,7 @@
 .addres-contacts:hover {
   color: #404bbf;
 }
-.contacts .a:active {
+.contacts .addres-contacts:active {
   color: #404bbf;
 }
 
@@ -65,9 +65,10 @@
   color: #ffffff;
   cursor: pointer;
 }
-button .button-order-service:active {
+.button-order-service:active {
   background-color: #404bbf;
 }
+
 .button-order-service:hover {
   background-color: #404bbf;
 }
